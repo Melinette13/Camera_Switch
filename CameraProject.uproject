@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{9A4E4808-4534-7A57-A649-1BBE5970C6E1}",
+	"EngineAssociation": "{7EAF1AF8-4DDA-C9F8-2BC7-3E849CB47266}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	]
 }
